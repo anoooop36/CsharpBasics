@@ -1,0 +1,11 @@
+C:\Users\anoop.chaudhary\Documents\Visual Studio 2017\Projects\C#_Basics\Generics\Generics\bin\Debug\netcoreapp2.0\Generics.deps.json
+C:\Users\anoop.chaudhary\Documents\Visual Studio 2017\Projects\C#_Basics\Generics\Generics\bin\Debug\netcoreapp2.0\Generics.runtimeconfig.json
+C:\Users\anoop.chaudhary\Documents\Visual Studio 2017\Projects\C#_Basics\Generics\Generics\bin\Debug\netcoreapp2.0\Generics.runtimeconfig.dev.json
+C:\Users\anoop.chaudhary\Documents\Visual Studio 2017\Projects\C#_Basics\Generics\Generics\bin\Debug\netcoreapp2.0\Generics.dll
+C:\Users\anoop.chaudhary\Documents\Visual Studio 2017\Projects\C#_Basics\Generics\Generics\bin\Debug\netcoreapp2.0\Generics.pdb
+C:\Users\anoop.chaudhary\Documents\Visual Studio 2017\Projects\C#_Basics\Generics\Generics\obj\Debug\netcoreapp2.0\Generics.csprojResolveAssemblyReference.cache
+C:\Users\anoop.chaudhary\Documents\Visual Studio 2017\Projects\C#_Basics\Generics\Generics\obj\Debug\netcoreapp2.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\anoop.chaudhary\Documents\Visual Studio 2017\Projects\C#_Basics\Generics\Generics\obj\Debug\netcoreapp2.0\Generics.AssemblyInfoInputs.cache
+C:\Users\anoop.chaudhary\Documents\Visual Studio 2017\Projects\C#_Basics\Generics\Generics\obj\Debug\netcoreapp2.0\Generics.AssemblyInfo.cs
+C:\Users\anoop.chaudhary\Documents\Visual Studio 2017\Projects\C#_Basics\Generics\Generics\obj\Debug\netcoreapp2.0\Generics.dll
+C:\Users\anoop.chaudhary\Documents\Visual Studio 2017\Projects\C#_Basics\Generics\Generics\obj\Debug\netcoreapp2.0\Generics.pdb
