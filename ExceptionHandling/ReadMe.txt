@@ -1,0 +1,1 @@
+Exception Handling done on reading a file from given directory + file name

@@ -23,11 +23,7 @@ namespace ExceptionHandling
             StreamReader reader=null;
             try
             {
-                if (System.IO.Directory.Exists(DirectoryPath))
-                {
-                }
-                else
-                {
+                if (!System.IO.Directory.Exists(DirectoryPath)) { 
                     throw new PathNotFoundException();
                 }
                 reader = new StreamReader(@DirectoryPath + '\\' + FileName);
