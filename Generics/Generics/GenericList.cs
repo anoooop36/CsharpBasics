@@ -6,29 +6,15 @@ namespace Generics
 {
     public class GenericList<T>
     {
-
         private class Node
         {
-
-            private T data;
-            public T Data
-            {
-                get { return data; }
-                set { data = value; }
-            }
-
-            private Node next;
-            public Node Next
-            {
-                get { return next; }
-                set { next = value; }
-            }
-
-
+            public T Data { get; set; }
+            public Node Next { get; set; }
+          
             public Node(T _data)
             {
-                next = null;
-                data = _data;
+                Next = null;
+                Data = _data;
             }
         }
 

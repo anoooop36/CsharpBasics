@@ -1,0 +1,2 @@
+This is line will be read by readFile in fileIO 
+class. Exception handling is done in readfile Method.
