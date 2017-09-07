@@ -52,6 +52,7 @@ namespace ExceptionHandling
                     reader.Close();
                 }
             }
+            
             Console.WriteLine("Normal termination of Reading");
         }
     }
