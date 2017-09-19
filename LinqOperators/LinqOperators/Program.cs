@@ -62,7 +62,7 @@ namespace LinqOperators
                 Console.Write("{0} ",item);
             }
 
-            bool checkIntegerNonZero = list.All(x=>x>1);
+            bool checkIntegerNonZero = list.All(x => x>0);
             Console.WriteLine("\nAll operation performed on list: {0}",checkIntegerNonZero);
             Console.ReadKey();
         }
