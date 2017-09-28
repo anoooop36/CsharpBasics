@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPageCharacterCountAsyncAwait", "WebPageCharacterCountAsyncAwait\WebPageCharacterCountAsyncAwait.csproj", "{222DAC94-E9B8-4FB2-9EB1-F981710B0964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{222DAC94-E9B8-4FB2-9EB1-F981710B0964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222DAC94-E9B8-4FB2-9EB1-F981710B0964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222DAC94-E9B8-4FB2-9EB1-F981710B0964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222DAC94-E9B8-4FB2-9EB1-F981710B0964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76B719DD-9D2E-4826-952E-2F4928784B80}
+	EndGlobalSection
+EndGlobal
